@@ -5,11 +5,11 @@ __CONTACTS:__
 * Discord: Anastasia Belestro (@belestrik)
 * Telegram: belestrik
 ---
-** SUMMARY:**
+__SUMMARY:__
 1. _About myself:_ Accurate, creative, quality-focused, analytical, disciplined, attentive, conscientious, self-starter.
 2. _Work experience:_  VELOX IMAGING (Technical support, QA Analyst).
 ---
-** SKILLS:**
+__SKILLS:__
 * Manual testing
 * Functional testing.
 * Usability testing
@@ -18,7 +18,7 @@ __CONTACTS:__
 * Problem solving
 * User Support
 --- 
-** CODE EXAMPLES:**
+__CODE EXAMPLES:__
 ```
 <html lang="en">
 
@@ -35,13 +35,13 @@ __CONTACTS:__
 </html>
 ```
 ---
-** COURSES:**
+__COURSES:__
 - [ENGLISH LANGUAGE CENTRE MR.ENGLISH (Intermediate)](http://mrenglish.by/)
 - ONLINE TRAINING (Basics of Software Testing)
 ---
-**EDUCATION:**
+__EDUCATION:__
 * _YANKA KUPALA STATE UNIVERSITY OF GRODNO_
 Specialist. Faculty of Economics and Management. Information systems and technologies (in the economy).
 ---
-**ENGLISH:**
+__ENGLISH:__
 * A2
