@@ -1,1 +1,1 @@
-https://natein.github.io/rsschool-cv/cv
+https://belestrik.github.io/rsschool-cv/cv
