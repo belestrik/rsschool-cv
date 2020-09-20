@@ -1,17 +1,17 @@
 # Anastasia Zdanovich
 --- 
-** CONTACTS: ** 
+**CONTACTS:** 
 
    * E-mail: ana.belestro@gmail.com
    * Discord: Anastasia Belestro (@belestrik)
    * Telegram: belestrik
 ---
-** SUMMARY: ** 
+**SUMMARY:** 
 
   1. _About myself: _ Accurate, creative, quality-focused, analytical, disciplined, attentive, conscientious, self-starter.
   2. _Work experience: _  VELOX IMAGING (Technical support, QA Analyst).
 ---
-** SKILLS: **
+**SKILLS:**
 
 * Manual testing
 * Functional testing.
@@ -21,7 +21,7 @@
 * Problem solving
 * User Support
 --- 
-** CODE EXAMPLES: **
+**CODE EXAMPLES:**
 ```
 <html lang="en">
 
@@ -38,7 +38,7 @@
 </html>
 ```
 ---
-** COURSES: **
+**COURSES:**
 
 - [ENGLISH LANGUAGE CENTRE MR.ENGLISH (Intermediate)](http://mrenglish.by/)
 - ONLINE TRAINING (Basics of Software Testing)
