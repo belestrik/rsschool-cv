@@ -1,1 +1,1 @@
-https://belestrik.github.io/rsschool-cv/CV
+https://belestrik.github.io/rsschool-cv/cv
