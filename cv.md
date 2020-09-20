@@ -1,6 +1,6 @@
 # Anastasia Zdanovich
 --- 
-** CONTACTS:** 
+__CONTACTS:__ 
 * E-mail: ana.belestro@gmail.com
 * Discord: Anastasia Belestro (@belestrik)
 * Telegram: belestrik
